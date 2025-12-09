@@ -1,0 +1,14 @@
+__pycache__
+*.pyc
+env/*
+.DS_Store
+node_modules
+.env
+.idea
+docker-compose.*
+.Dockerfile*
+migrations/*.py
+migrations/*.pyc
+migrations/*~*
+*.log
+logs
